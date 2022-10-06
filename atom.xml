@@ -3,11 +3,11 @@
   <title>努力的小羊`BLOG</title>
   
   <subtitle>没心没肺，活着不累</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://nulidexiaoyang.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://nulidexiaoyang.github.io/"/>
   <updated>2022-10-05T11:15:15.547Z</updated>
-  <id>http://example.com/</id>
+  <id>http://nulidexiaoyang.github.io/</id>
   
   <author>
     <name>小羊Xyan9</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://nulidexiaoyang.github.io/posts/4a17b156.html"/>
+    <id>http://nulidexiaoyang.github.io/posts/4a17b156.html</id>
     <published>2022-10-05T08:15:09.739Z</published>
     <updated>2022-10-05T11:15:15.547Z</updated>
     
